@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "Dz Ofc",
-     "nomerlu": "6285335877178",
-     "namabot": "Haruka Botz",
-     "nomerbot": "6285335877178",
-     "gender" : "Male",
-     "copyright" : "Dz Ofc",
-     "namaDocument": "Haruka Botz",
+     "namalu" : "Branzz",
+     "nomerlu": "6285337509294",
+     "namabot": "BranzzBotz",
+     "nomerbot": "6285337509294",
+     "gender" : "male",
+     "copyright" : "BZ",
+     "namaDocument": "BranzzBotz",
      "joinGcExtream": false,
 
      "publik": true,
@@ -45,10 +45,10 @@
      },
      
      "setPayment": {
-     "Shopee" : "085335877178",
-     "Gopay" : "085335877178",
-     "Dana" : "085335877178",
-     "Ovo" : "085335877178"
+     "Shopee" : "085337509294",
+     "Gopay" : "085337509294",
+     "Dana" : "085337509294",
+     "Ovo" : "085337509294"
      },
      
      "setPrefix": {
